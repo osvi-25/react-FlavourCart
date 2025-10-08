@@ -1,0 +1,184 @@
+[
+    {
+       "id" : 1,
+       "name" : "Chicken Milagu Soup",
+       "amt" : "120",
+       "shop" : "Sri Lakshmi Foods",
+       "ftype" : "Non-Veg",
+       "pic" : "public/images/chickenmilagusoup.avif",
+       "latest" : "NO"
+    },
+    {
+       "id" : 2,
+       "name" : "Mutton Milagu Soup",
+       "amt" : "150",
+       "shop" : "Thalapakatti Biryani",
+       "ftype" : "Non-Veg",
+       "pic" : "public/images/muttonmilagusoup.avif",
+       "latest" : "NO"
+    },
+    {
+       "id" : 3,
+       "name" : "Chicken Biryani",
+       "amt" : "200",
+       "shop" : "Salem RR Biryani",
+       "ftype" : "Non-Veg",
+       "pic" : "public/images/chickenbiryani.avif",
+       "latest" : "NO"
+    },
+      {
+       "id" : 4,
+       "name" : "Chicken 65 Biryani",
+       "amt" : "220",
+       "shop" : "Thalapakatti Biryani",
+       "ftype" : "Non-Veg",
+       "pic" : "public/images/65biryani.avif",
+       "latest" : "NO"
+    },
+    {
+       "id" : 5,
+       "name" : "Nattukozhi Biryani",
+       "amt" : "350",
+       "shop" : "Salem RR Biryani",
+       "ftype" : "Non-Veg",
+       "pic" : "public/images/nattukozhibiryani.avif",
+       "latest" : "NO"
+    },
+    {
+       "id" : 6,
+       "name" : "Egg Kothu Idiyappam",
+       "amt" : "100",
+       "shop" : "Thalapakatti Biryani",
+       "ftype" : "Non-Veg",
+       "pic" : "public/images/eggkothuidiyappam.avif",
+       "latest" : "NO"
+    },
+    {
+       "id" : 7,
+       "name" : "Prawn Fried Noodles",
+       "amt" : "286",
+       "shop" : "Salem RR Biryani",
+       "ftype" : "Non-Veg",
+       "pic" : "public/images/prawnfriednoodles.avif",
+       "latest" : "NO"
+    },
+    {
+       "id" : 8,
+       "name" : "Barbeque Chicken",
+       "amt" : "341",
+       "shop" : "Salem RR Biryani",
+       "ftype" : "Non-Veg",
+       "pic" : "public/images/barbequechicken.avif",
+       "latest" : "NO"
+    },
+    {
+       "id" : 9,
+       "name" : "Tandoori Chicken",
+       "amt" : "319",
+       "shop" : "Sri Lakshmi Foods",
+       "ftype" : "Non-Veg",
+       "pic" : "public/images/tandoorichichen.avif",
+       "latest" : "NO"
+    },
+    {
+       "id" : 10,
+       "name" : "Tangdi Kabab",
+       "amt" : "385",
+       "shop" : "Salem RR Biryani",
+       "ftype" : "Non-Veg",
+       "pic" : "public/images/tangdikabab.avif",
+       "latest" : "NO"
+    },
+    {
+       "id" : 11,
+       "name" : "Chicken 65",
+       "amt" : "120",
+       "shop" : "Thalapakatti Biryani",
+       "ftype" : "Non-Veg",
+       "pic" : "public/images/chicken 65.avif",
+       "latest" : "NO"
+    },
+    {
+       "id" : 12,
+       "name" : "Chicken Lolipop",
+       "amt" : "280",
+       "shop" : "Sri Lakshmi Foods",
+       "ftype" : "Non-Veg",
+       "pic" : "public/images/chickenlolipop.avif",
+       "latest" : "NO"
+    },
+    {
+       "id" : 13,
+       "name" : "Kadai Chicken",
+       "amt" : "260",
+       "shop" : "Thalapakatti Biryani",
+       "ftype" : "Non-Veg",
+       "pic" : "public/images/kadaichicken.avif",
+       "latest" : "NO"
+    },
+    {
+       "id" : 14,
+       "name" : "Schezwan Chicken",
+       "amt" : "290",
+       "shop" : "Salem RR Biryani",
+       "ftype" : "Non-Veg",
+       "pic" : "public/images/schezwanchicken.avif",
+       "latest" : "NO"
+    },
+    {
+       "id" : 15,
+       "name" : "Chicken Karandi Omelette",
+       "amt" : "80",
+       "shop" : "Thalapakatti Biryani",
+       "ftype" : "Non-Veg",
+       "pic" : "public/images/chickenkarandi.avif",
+       "latest" : "NO"
+    },
+    {
+       "id" : 17,
+       "name" : "Peri Peri Red Chicken",
+       "amt" : "320",
+       "shop" : "Sri Lakshmi Foods",
+       "ftype" : "Non-Veg",
+       "pic" : "public/images/periperiredchicken.avif",
+       "latest" : "NO"
+    },
+    {
+       "id" : 18,
+       "name" : "Vanjaram Tawa Fry",
+       "amt" : "350",
+       "shop" : "Sri Lakshmi Foods",
+       "ftype" : "Non-Veg",
+       "pic" : "public/images/vanjaramtawafry.avif",
+       "latest" : "NO"
+    },
+    {
+       "id" : 20,
+       "name" : "Prawn Masala",
+       "amt" : "298",
+       "shop" : "Salem RR Biryani",
+       "ftype" : "Non-Veg",
+       "pic" : "public/images/prawnmasala.avif",
+       "latest" : "NO"
+    },
+    {
+       "id" : 21,
+       "name" : "Bread Halwa",
+       "amt" : "135",
+       "shop" : "Sri Lakshmi Foods",
+       "ftype" : "Veg",
+       "pic" : "public/images/breadhalwa.avif",
+       "latest" : "NO"
+    },
+    {
+       "id" : 22,
+       "name" : "Pineapple Kesari",
+       "amt" : "160",
+       "shop" : "Salem RR Biryani",
+       "ftype" : "Veg",
+       "pic" : "public/images/pineapplekesari.avif",
+       "latest" : "NO"
+    }
+]
+
+  
